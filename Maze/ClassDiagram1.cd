@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Maze.Robot1">
+    <Position X="10" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AABQAAAAAAAAAAAAAIAAAQACAAAAEAAAAAAAAAAAAgI=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Robot2">
+    <Position X="7.75" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgAIACgAAAFAEAAAAIAAAAABAAAAAACkAQAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Izgara">
+    <Position X="12.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAGAAgAAAAAAIIAQACBAAAIAAIAAAAAAAgAQAECAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Engel">
+    <Position X="7.75" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Maze.Uygulama">
+    <Position X="10" Y="3" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Class1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
